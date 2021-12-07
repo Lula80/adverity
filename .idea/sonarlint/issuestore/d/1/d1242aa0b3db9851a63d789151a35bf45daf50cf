@@ -1,0 +1,54 @@
+
+Q	java:S125o"<This block of commented-out lines of code should be removed.(û‚—‡
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¯¢ ÖÏ/
+e
+java:S2095ˆ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‚µŠ¯8Ï¢ÖÏ/
+2
+java:S1116t"Remove this empty statement.(óÛùÍ
+D
+java:S2115:")Add password protection to this database.(¾çİŸıÿÿÿÿ
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(–å³8İ‹‰ÙÏ/
+]	java:S125%"<This block of commented-out lines of code should be removed.(ÿğŞ¬ÿÿÿÿÿ8¶¦èˆÏ/
+j
+java:S2095±"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ8İ‹‰ÙÏ/
+I
+java:S1168Ÿ"+Return an empty collection instead of null.(¥¹ï8¯¢ ÖÏ/
+I
+java:S1168¤"+Return an empty collection instead of null.(¥¹ï8¯¢ ÖÏ/
+Q	java:S125y"<This block of commented-out lines of code should be removed.(š ”û
+Q	java:S125k"<This block of commented-out lines of code should be removed.(ÂÂæ±
+]
+java:S2095J"GUse try-with-resources or close this "Statement" in a "finally" clause.(£ç²
+X	java:S125"<This block of commented-out lines of code should be removed.(è«Ó¨8›óöÓÏ/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8ô‰÷ˆÏ/
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8¦°ıˆÏ/
+m
+java:S2095«"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùåø8İ‹‰ÙÏ/
+c
+java:S2095‡"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(è«Ó¨
+C
+java:S1481c"(Remove this unused "sdf" local variable.(É·Í”üÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(è«Ó¨
+7
+java:S1170"!Make this final field static too.(•¢ŞÈ
+[	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8¢º°ÖÏ/
+j
+java:S2095È"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ù«ÆÃùÿÿÿÿ8¯¢ ÖÏ/
+j
+java:S2259A"HA "NullPointerException" could be thrown; "connection" is nullable here.(İ÷œÓùÿÿÿÿ8²Ø’ÖÏ/
+m
+java:S2095Ã"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ùåø8—Ã´ÖÏ/
+O
+java:S4925%"-Remove this "Class.forName()", it is useless.(ÿğŞ¬ÿÿÿÿÿ8¶¦èˆÏ/
+e
+java:S2095e"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ±½‚
+Y	java:S125Ä"<This block of commented-out lines of code should be removed.(ˆ×ö8¨À×Ï/
+[	java:S106¹"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8İ‹‰ÙÏ/
+H
+java:S1068"+Remove this unused "csvPath" private field.(•¢ŞÈ8ô‰÷ˆÏ/
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(•¢ŞÈ
