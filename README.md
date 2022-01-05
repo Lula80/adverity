@@ -27,8 +27,9 @@ API calculates 3 types of metrics
       },
       "metric": "CLICKS"
     }
+    
  3. Delivering as result simple list of passed metric values, obtained by applying passed 
- dimensions as filters. Only metric parameer is necessary.
+ dimensions as filters.No parameter is necessary. Empty request willcall "select all" query. 
  {
    "campaign": "Adventmarkt Touristik",
    "daily": {

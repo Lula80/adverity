@@ -3,15 +3,16 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
-      <profile name="Annotation profile for adverity" enabled="true">
+      <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$PROJECT_DIR$/../../../../maven_repo/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar" />
-        </processorPath>
         <module name="adverity" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="13" />
+  </component>
+  <component name="GreclipseSettings">
+    <option name="cmdLineParams" value="-Dgroovyc.reuse.compiler.classes=false" />
   </component>
 </project>
